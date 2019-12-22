@@ -1,5 +1,4 @@
-# Gutenberg Block Development Demo
-
+# Gutenberg Call to Action Block
 Hey guys!! This is super simple gutenberg plugin through which you can add call to action button with fully freedom like background colour, text colour, padding, font size etc.
 I am using ES6 and JSX for the development of this plugin. You can also use ES5 but as ES6 is easy and it gives fully flexibility to write javascript and html at the same time.
 Below you will find all the required steps on how to create this super simple plugin.
