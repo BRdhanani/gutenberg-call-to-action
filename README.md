@@ -18,6 +18,7 @@ Below you will find all the required steps on how to create this super simple pl
 All of you need to do first is create required files for basic plugin development.
 ### Create root folder with plugin file inside plugin directory
 Create your plugin folder inside plugin directory with your favourite name. After creating folder, create plugin.php file which is main file of your plugin. You can give any name to your plugin file but ideal way is to give it same name as plugin folder name. In plugin.php file, you need to add some details as shown below.<br/>
+
 Plugin Name: Your plugin name<br/>
 Description: Your plugin description<br/>
 Author: Author name<br/>
