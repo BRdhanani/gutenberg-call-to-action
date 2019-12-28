@@ -77,3 +77,5 @@ It will bundled your files. After running above command, there will be automatic
 
 ## Something Missing?
 If you think any thing is missing herre that should be on this plugin, [let us know](https://github.com/BRdhanani/gutenberg-call-to-action/issues) or [want to contribute some!](https://github.com/BRdhanani/gutenberg-call-to-action/edit/master/README.md)
+
+I would like to give huge thanks to [Ankita Tanti](https://github.com/AnkitaTanti) for giving me idea to implement this plugin.
