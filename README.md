@@ -84,4 +84,4 @@ If you think any thing is missing herre that should be on this plugin, [let us k
 ## Credit
 I would like to give huge thanks to [Ankita Tanti](https://github.com/AnkitaTanti) for giving me idea to implement this plugin.
 
-Please follow me pray on [Medium](https://medium.com/@brijeshdhanani) and [github](https://github.com/BRdhanani).
+Please follow me on [Medium](https://medium.com/@brijeshdhanani) and [github](https://github.com/BRdhanani).
